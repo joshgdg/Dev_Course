@@ -138,7 +138,7 @@ p{
     display: flex;
     justify-content: center;
     align-items: center;
-    background: url(./img/dig.jpg);
+    background: url(./img/cicd.jpg);
     background-size: cover;
 }
 
@@ -165,7 +165,7 @@ p{
     text-decoration: none;
     border: 1px solid transparent ;
     font-weight: bold;
-    margin-top: 20%;
+    margin-top: 80%;
     padding: 7px 14px;
     border-radius: 30px;
     transition: .4s;
@@ -202,7 +202,7 @@ p{
 /*CONTACT START*/
 
 .contact-section{
-    background: url(img/dig.jpg);
+    background: url(img/cicd.jpg);
     background-size: cover;
     padding: 60px 0;
   }

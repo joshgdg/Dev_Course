@@ -14,7 +14,7 @@
   <body> 
 
           <nav class="navbar">
-            <a class="logo"><span>SHITS</span>& TRICKS</a>
+            <a class="logo"><span>DevOps</span> & Tips</a>
             <a href="#" class="toggle-button">
                 <span class="bar"></span>
                 <span class="bar"></span>
@@ -66,7 +66,7 @@
                     </div>
                 </div>
                 <div class="footer-col">
-                    <p>© 2023 SHITS & TRICKS, Powered by Jow & Will</p>
+                    <p>© 2023 IT Tips, Powered by Jow & Will</p>
                 </div>
             </div>
         </div>
