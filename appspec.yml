@@ -3,7 +3,3 @@ os: linux
 files:
   - sources: index.html
     destination: /var/www/html
-hooks:
-  BeforeInstall:
-  - location : scripts/install_dependencies
-    runas: root
